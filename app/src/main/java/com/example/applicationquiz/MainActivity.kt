@@ -21,6 +21,8 @@ import com.example.applicationquiz.ecran.EcranQuiz
 import com.example.applicationquiz.ecran.EcranResultat
 import com.example.applicationquiz.ui.theme.ApplicationQuizTheme
 
+//ANDRIANJAFY Zaraïna N°05 L2 EXAMEN ANDROID
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
