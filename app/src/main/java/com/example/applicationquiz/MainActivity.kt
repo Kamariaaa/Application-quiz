@@ -78,7 +78,7 @@ fun QuizApp() {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun QuizAppPreview() {
     ApplicationQuizTheme {
         QuizApp()
     }
