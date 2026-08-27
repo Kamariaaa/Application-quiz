@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="field_nom">Entrez votre nom</string>
+    <string name="field_mail">Entrez votre adresse mail</string>
+    <string name="field_numero">Entrez votre numéro de téléphone</string>
+    <string name="titre">Bienvenue dans le Quiz de personnalité\nEntrez vos informations</string>
+    <string name="titre_resultat">Voici vos résultats !</string>
+    <string name="sous_titre_resultat">Top 3 de vos profils</string>
+    <string name="dernier_profil">"Votre dernier profil est le : "</string>
+    <string name="reponse1">Totalement en désaccord</string>
+    <string name="reponse2">En désaccord</string>
+    <string name="reponse5">Totalement en accord</string>
+    <string name="reponse4">En accord</string>
+    <string name="reponse3">Neutre</string>
+    <string name="scores">Scores :</string>
+    <string name="valider">Valider</string>
+    <string name="precedent">Précédent</string>
+</resources>
